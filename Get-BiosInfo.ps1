@@ -7,7 +7,7 @@ Retrieves BIOS information from a computer
 .DESCRiption
 Uses CIM to collect BIOS information from a remote computer
 .Parameter computername
-The computer name of IP address to query
+The computer name or IP address to query
 .example
 Get-BIOSInfo -computername Tserver
 .Example
